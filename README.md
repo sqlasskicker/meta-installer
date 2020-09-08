@@ -1,4 +1,4 @@
-#metasploit_installer
+# metasploit_installer
 Install metasploit easily without any error in termux
 For Android version 7 or above.
 
@@ -18,4 +18,7 @@ Or
 
 Now it will automatically install the metasploit framework
  
-After installation type msfconsole to use metasploit
+# After installation type:
+msfconsole 
+
+to use metasploit
