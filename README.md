@@ -17,10 +17,8 @@ For Android version 7 or above.
 cd meta-installer
 
 bash metasploit.sh
-      
-Or
- 
-./ metasploit.sh
+
+     
 
 Now it will automatically install the metasploit framework
  
